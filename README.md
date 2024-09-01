@@ -1,4 +1,10 @@
 ## Hi there 👋
+---
+#自我介绍
+*  **姓名**：陈祥意
+* **性别**： 男
+* **爱好**： 羽毛球、骑行、阅读、研究
+---
 
 <!--
 **Csneer/Csneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
